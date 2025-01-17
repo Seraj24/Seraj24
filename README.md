@@ -28,7 +28,7 @@ Check out my **[GitHub Repositories](https://github.com/Seraj24)** for more proj
 
 ## 📬 Connect with Me  
 📧 **Email:** seraj.alomari@lcieducation.net
-🔗 **LinkedIn:** [Your LinkedIn Profile](TODO)  
+🔗 **LinkedIn:** [TODO]  
 🌎 **Portfolio:** [TODO]  
 
 ---
