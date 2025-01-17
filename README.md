@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Seraj Alomari  
 
-<!--
-**Seraj24/Seraj24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Developer**   
 
-Here are some ideas to get you started:
+## 📌 About Me  
+I am a passionate **software developer** with a strong focus on **game development, software architecture, and AI systems**.  
+I enjoy solving complex problems, designing scalable solutions, and continuously improving my skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 **Currently Learning:** AI behavior, multiplayer networking, and large-scale game systems  
+- 🚀 **Interests:** Game development, software engineering, and system design  
+- 💡 **Core Principles:** Clean code, performance optimization, and maintainable architectures  
+- 🤝 **Looking for:** Internship opportunities in game development or software engineering  
+
+---
+
+## 🔧 Tech Stack & Expertise  
+- **Languages:** C#, Python, Java, JavaScript  
+- **Game Development:** Unity, AI Systems, State Machines, Physics & Animation  
+- **Software Architecture:** Design Patterns (State, Observer, Event-Delegate, Chain of Responsibility)  
+- **Databases & Backend:** Firebase, Firestore, SQL, ASP.NET Core  
+- **Development Tools:** Inteliji, Git, VS Code, Unity Editor  
+
+---
+
+Check out my **[GitHub Repositories](https://github.com/Seraj24)** for more projects!  
+
+---
+
+## 📬 Connect with Me  
+📧 **Email:** seraj.alomari@lcieducation.net
+🔗 **LinkedIn:** [Your LinkedIn Profile](TODO)  
+🌎 **Portfolio:** [TODO]  
+
+---
+
+⭐️ **Thanks for visiting my GitHub profile! Feel free to explore my projects.** 🚀  
