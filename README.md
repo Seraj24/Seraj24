@@ -30,7 +30,6 @@ I enjoy building efficient, scalable systems with a variety of tools and technol
 
 ### **Software Architecture**  
 **Design Patterns:** The design patterns I most commonly use in my projects include: 
-- ![Software Architecture](https://img.shields.io/badge/Software_Architecture-2C3E50?style=for-the-badge&logo=appveyor)  
 - ![State Pattern](https://img.shields.io/badge/State_Pattern-4CAF50?style=for-the-badge&logo=themetapicture)  
 - ![Observer Pattern](https://img.shields.io/badge/Observer_Pattern-FFC107?style=for-the-badge&logo=appveyor)  
 - ![Event-Delegate](https://img.shields.io/badge/Event_Delegate-9C27B0?style=for-the-badge&logo=appveyor)  
