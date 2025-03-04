@@ -79,9 +79,8 @@ Check out my **[GitHub Repositories](https://github.com/Seraj24)** for more proj
 
 ## ![Connect](https://img.shields.io/badge/Connect_with_Me-000000?style=for-the-badge&logo=connectdevelop)  
 ![Email](https://img.shields.io/badge/Email-seraj.alomari%40lcieducation.net-blue?style=for-the-badge&logo=mail) **Email:** [seraj.alomari@lcieducation.net](mailto:seraj.alomari@lcieducation.net) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seraj-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seraj-alomari-5a8848330/) 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=flat-square&logo=vercel)](https://seraj-portfolio.vercel.app/)   
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seraj-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seraj-alomari-5a8848330/) 
 
-⭐️ **Thanks for visiting my GitHub profile! Feel free to explore my projects.** 🚀  
